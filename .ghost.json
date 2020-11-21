@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://tudor.parentalcontrol.ro",
+    "contentApiKey": "168b809793b3c4172a7dbf3257"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://tudor.parentalcontrol.ro",
+    "contentApiKey": "168b809793b3c4172a7dbf3257"
   }
 }
